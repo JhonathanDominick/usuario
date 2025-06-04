@@ -1,4 +1,4 @@
-package com.javanauta.aprendendo_spring.infrastructure.exceptions;
+package com.jdm.usuario.infrastructure.exceptions;
 
 public class ConflitException extends RuntimeException{
 
